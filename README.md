@@ -8,7 +8,7 @@ I build and support modern websites and digital solutions for businesses, with a
 
 - 🌐 Business websites and landing pages
 - 🛒 Website & e-commerce management
-- 🧩 Content and product management through CMS/Admin Panels
+- 🗂️ Content and product management through CMS/Admin Panels
 - 🛠️ Technical support for websites and online stores
 - 🔎 SEO-focused content and website support
 - ⚙️ Custom web solutions and administrative dashboards
